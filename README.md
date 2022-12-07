@@ -78,4 +78,6 @@ Ahora veo la mac del equipo con el comando getmac y la introduco en mi archivo d
   }
   
   
+  
+  ![This is an image](https://github.com/dvarelavidal/Proyecto_DiegoDHCP/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-12-07%2019-43-47.png)
  
