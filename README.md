@@ -78,6 +78,7 @@ Ahora veo la mac del equipo con el comando getmac y la introduco en mi archivo d
 
   }
   
+  - Como podemos comprobar, al poner el cliente en modo ¨Adaptador Puente" y la configuración de red de forma automatica, podremos comprobar que adquiere la direccion ip de la imagen y que nuestro dhcp detecta la misma
   
   ![This is an image](https://github.com/dvarelavidal/Proyecto_DiegoDHCP/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-12-07%2018-42-47.png)
 
