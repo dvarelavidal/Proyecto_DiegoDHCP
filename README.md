@@ -52,7 +52,8 @@ subnet 10.0.9.0 netmask 255.255.255.0 {
   - Comprobamos su funcionamiento:
   Al ejecutar el comando "docker-compose up" en el terminal, nos saldrá la siguiente ventana, que nos indicará que todo va bien.
   
-  ![This is an image](https://github.com/dvarelavidal/Proyecto_DiegoDHCP/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-12-07%2018-42-47.png)
+   ![This is an image](https://github.com/dvarelavidal/Proyecto_DiegoDHCP/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-12-07%2019-43-47.png)
+  
   
   
   
@@ -78,6 +79,6 @@ Ahora veo la mac del equipo con el comando getmac y la introduco en mi archivo d
   }
   
   
-  
-  ![This is an image](https://github.com/dvarelavidal/Proyecto_DiegoDHCP/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-12-07%2019-43-47.png)
+  ![This is an image](https://github.com/dvarelavidal/Proyecto_DiegoDHCP/blob/main/imagenes/Captura%20de%20pantalla%20de%202022-12-07%2018-42-47.png)
+
  
