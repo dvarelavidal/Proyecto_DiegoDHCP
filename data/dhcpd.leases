@@ -1,0 +1,160 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.4.1
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+lease 10.0.9.191 {
+  starts 3 2022/12/07 16:43:04;
+  ends 3 2022/12/07 16:45:04;
+  cltt 3 2022/12/07 16:43:04;
+  binding state free;
+  hardware ethernet 08:00:27:ce:3f:74;
+  uid "\001\010\000'\316?t";
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.194 {
+  starts 3 2022/12/07 16:43:28;
+  ends 3 2022/12/07 16:45:28;
+  cltt 3 2022/12/07 16:43:28;
+  binding state free;
+  hardware ethernet 08:00:27:ce:3f:74;
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.199 {
+  starts 3 2022/12/07 16:56:53;
+  ends 3 2022/12/07 16:58:53;
+  cltt 3 2022/12/07 16:56:53;
+  binding state free;
+  hardware ethernet 08:00:27:ec:9c:dd;
+  uid "\001\010\000'\354\234\335";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "hugoserver";
+}
+lease 10.0.9.193 {
+  starts 3 2022/12/07 17:02:26;
+  ends 3 2022/12/07 17:04:26;
+  cltt 3 2022/12/07 17:02:26;
+  binding state free;
+  hardware ethernet 08:00:27:62:43:8a;
+  uid "\001\010\000'bC\212";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "Jacobo";
+}
+lease 10.0.9.200 {
+  starts 3 2022/12/07 17:03:07;
+  ends 3 2022/12/07 17:05:07;
+  cltt 3 2022/12/07 17:03:07;
+  binding state free;
+  hardware ethernet 08:00:27:e9:b1:9f;
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.196 {
+  starts 3 2022/12/07 17:03:07;
+  ends 3 2022/12/07 17:05:07;
+  cltt 3 2022/12/07 17:03:07;
+  binding state free;
+  hardware ethernet 08:00:27:ce:3f:74;
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.192 {
+  starts 3 2022/12/07 17:21:22;
+  ends 3 2022/12/07 17:23:22;
+  cltt 3 2022/12/07 17:21:22;
+  binding state free;
+  hardware ethernet 08:00:27:ce:3f:74;
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.190 {
+  starts 3 2022/12/07 17:23:38;
+  ends 3 2022/12/07 17:25:38;
+  cltt 3 2022/12/07 17:23:38;
+  binding state free;
+  hardware ethernet e0:d5:5e:65:d5:a8;
+  uid "\377^e\325\250\000\001\000\001*\264L\234\340\325^e\325\250";
+  client-hostname "perlanegra07";
+}
+lease 10.0.9.195 {
+  starts 3 2022/12/07 16:23:05;
+  ends 4 2022/12/08 16:23:05;
+  cltt 3 2022/12/07 16:23:05;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+  client-hostname "xubuntu";
+}
+lease 10.0.9.198 {
+  starts 3 2022/12/07 16:32:14;
+  ends 4 2022/12/08 16:32:15;
+  cltt 3 2022/12/07 16:32:14;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:23:46;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:24:04;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:24:15;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:24:31;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:24:47;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:26:05;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
+lease 10.0.9.193 {
+  starts 3 2022/12/07 17:41:44;
+  ends 4 2022/12/08 17:41:44;
+  cltt 3 2022/12/07 17:41:44;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:65:02:f3;
+  uid "\001\010\000'e\002\363";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "DESKTOP-RPIABIG";
+}

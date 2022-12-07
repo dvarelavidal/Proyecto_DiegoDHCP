@@ -1,0 +1,68 @@
+# The format of this file is documented in the dhcpd.leases(5) manual page.
+# This lease file was written by isc-dhcp-4.4.1
+
+# authoring-byte-order entry is generated, DO NOT DELETE
+authoring-byte-order little-endian;
+
+server-duid "\000\001\000\001+#qL\340\325^g\032O";
+
+lease 10.0.9.199 {
+  starts 3 2022/12/07 16:19:00;
+  ends 4 2022/12/08 16:19:00;
+  cltt 3 2022/12/07 16:19:00;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:ce:a1:1a;
+  uid "\001\010\000'\316\241\032";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "DESKTOP-42DAI9H";
+}
+lease 10.0.9.195 {
+  starts 3 2022/12/07 16:23:05;
+  ends 4 2022/12/08 16:23:05;
+  cltt 3 2022/12/07 16:23:05;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+  client-hostname "xubuntu";
+}
+lease 10.0.9.199 {
+  starts 3 2022/12/07 16:19:00;
+  ends 3 2022/12/07 16:23:38;
+  tstp 3 2022/12/07 16:23:38;
+  cltt 3 2022/12/07 16:23:38;
+  binding state free;
+  hardware ethernet 08:00:27:ce:a1:1a;
+  uid "\001\010\000'\316\241\032";
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 16:23:38;
+  cltt 3 2022/12/07 16:23:38;
+  binding state active;
+  next binding state free;
+  rewind binding state free;
+  hardware ethernet 08:00:27:ce:a1:1a;
+  uid "\001\010\000'\316\241\032";
+  set vendor-class-identifier = "MSFT 5.0";
+  client-hostname "DESKTOP-42DAI9H";
+}
+lease 10.0.9.198 {
+  starts 3 2022/12/07 16:32:14;
+  ends 4 2022/12/08 16:32:15;
+  cltt 3 2022/12/07 16:32:14;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+  client-hostname "dony-VirtualBox";
+}
+lease 10.0.9.197 {
+  starts 3 2022/12/07 16:23:38;
+  ends 4 2022/12/08 17:23:46;
+  tstp 4 2022/12/08 17:23:46;
+  cltt 3 2022/12/07 17:23:46;
+  binding state abandoned;
+  next binding state free;
+  rewind binding state free;
+}
